@@ -1,0 +1,53 @@
+{
+  "uid" : "cf93496cd0409753",
+  "name" : "test_add_string__expect_exception",
+  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
+  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
+  "time" : {
+    "start" : 1623946869047,
+    "stop" : 1623946869047,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-145"
+  }, {
+    "name" : "thread",
+    "value" : "2716-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf93496cd0409753.json",
+  "parameterValues" : [ ]
+}
