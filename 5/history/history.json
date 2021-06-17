@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cf93496cd0409753",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/cf93496cd0409753",
+      "uid" : "defeb7fd1e942fb1",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/defeb7fd1e942fb1",
       "status" : "passed",
       "time" : {
-        "start" : 1623946869047,
-        "stop" : 1623946869047,
+        "start" : 1623946875474,
+        "stop" : 1623946875474,
         "duration" : 0
       }
     } ]
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fc29638a41eb63b7",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/fc29638a41eb63b7",
+      "uid" : "a77455f29ecdddb5",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/a77455f29ecdddb5",
       "status" : "passed",
       "time" : {
-        "start" : 1623946869045,
-        "stop" : 1623946869045,
+        "start" : 1623946875473,
+        "stop" : 1623946875473,
         "duration" : 0
       }
     } ]
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2dcbc224528a56f0",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/2dcbc224528a56f0",
+      "uid" : "e21dbce7960e98bf",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/e21dbce7960e98bf",
       "status" : "passed",
       "time" : {
-        "start" : 1623946869044,
-        "stop" : 1623946869044,
+        "start" : 1623946875471,
+        "stop" : 1623946875471,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6aa7812ac39489ac",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/6aa7812ac39489ac",
+      "uid" : "fea0c22cbb69f8",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/fea0c22cbb69f8",
       "status" : "passed",
       "time" : {
-        "start" : 1623946869024,
-        "stop" : 1623946869024,
+        "start" : 1623946875431,
+        "stop" : 1623946875431,
         "duration" : 0
       }
     } ]
