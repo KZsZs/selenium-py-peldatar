@@ -1,11 +1,11 @@
 {
-  "uid" : "879d0ede131d7a12",
-  "name" : "test_add_string__expect_exception",
-  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
-  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
+  "uid" : "77c97df2ceac4e59",
+  "name" : "test_add_negative",
+  "fullName" : "testproject.test_mymath#test_add_negative",
+  "historyId" : "753cdf21aa3257d3e2249d83346a13e6",
   "time" : {
-    "start" : 1625173377602,
-    "stop" : 1625173377602,
+    "start" : 1625173381400,
+    "stop" : 1625173381400,
     "duration" : 0
   },
   "status" : "passed",
@@ -21,10 +21,10 @@
     "value" : "test_mymath"
   }, {
     "name" : "host",
-    "value" : "fv-az42-218"
+    "value" : "fv-az39-108"
   }, {
     "name" : "thread",
-    "value" : "2785-MainThread"
+    "value" : "2780-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -56,36 +56,36 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "68efbf878a170d78",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/7//#testresult/68efbf878a170d78",
+        "uid" : "e257e3fdd2bd9c95",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/7//#testresult/e257e3fdd2bd9c95",
         "status" : "passed",
         "time" : {
-          "start" : 1625172403556,
-          "stop" : 1625172403556,
+          "start" : 1625172403554,
+          "stop" : 1625172403554,
           "duration" : 0
         }
       }, {
-        "uid" : "634ec6656065bf37",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/634ec6656065bf37",
+        "uid" : "bc6f75631d38fded",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/bc6f75631d38fded",
         "status" : "passed",
         "time" : {
-          "start" : 1624560207995,
-          "stop" : 1624560207995,
+          "start" : 1624560207993,
+          "stop" : 1624560207993,
           "duration" : 0
         }
       }, {
-        "uid" : "defeb7fd1e942fb1",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/defeb7fd1e942fb1",
+        "uid" : "a77455f29ecdddb5",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/a77455f29ecdddb5",
         "status" : "passed",
         "time" : {
-          "start" : 1623946875474,
-          "stop" : 1623946875474,
+          "start" : 1623946875473,
+          "stop" : 1623946875473,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "879d0ede131d7a12.json",
+  "source" : "77c97df2ceac4e59.json",
   "parameterValues" : [ ]
 }
