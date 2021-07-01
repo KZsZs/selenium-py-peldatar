@@ -1,11 +1,11 @@
 {
-  "uid" : "42feb99324c4d2df",
-  "name" : "test_add_string__expect_exception",
-  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
-  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
+  "uid" : "2372489f4e3f8311",
+  "name" : "test_add_positive",
+  "fullName" : "testproject.test_mymath#test_add_positive",
+  "historyId" : "0cc1fa42e1c19a0d3fd610d45c4ba65a",
   "time" : {
-    "start" : 1625172399776,
-    "stop" : 1625172399776,
+    "start" : 1625172403544,
+    "stop" : 1625172403544,
     "duration" : 0
   },
   "status" : "passed",
@@ -21,10 +21,10 @@
     "value" : "test_mymath"
   }, {
     "name" : "host",
-    "value" : "fv-az74-105"
+    "value" : "fv-az83-332"
   }, {
     "name" : "thread",
-    "value" : "2768-MainThread"
+    "value" : "2779-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -56,27 +56,27 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "634ec6656065bf37",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/634ec6656065bf37",
+        "uid" : "111dcca76cc0da69",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/111dcca76cc0da69",
         "status" : "passed",
         "time" : {
-          "start" : 1624560207995,
-          "stop" : 1624560207995,
+          "start" : 1624560207989,
+          "stop" : 1624560207989,
           "duration" : 0
         }
       }, {
-        "uid" : "defeb7fd1e942fb1",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/defeb7fd1e942fb1",
+        "uid" : "fea0c22cbb69f8",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/fea0c22cbb69f8",
         "status" : "passed",
         "time" : {
-          "start" : 1623946875474,
-          "stop" : 1623946875474,
+          "start" : 1623946875431,
+          "stop" : 1623946875431,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "42feb99324c4d2df.json",
+  "source" : "2372489f4e3f8311.json",
   "parameterValues" : [ ]
 }

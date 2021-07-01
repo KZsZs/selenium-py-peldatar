@@ -1,11 +1,11 @@
 {
-  "uid" : "b337a36c039c51b0",
-  "name" : "test_add_positive",
-  "fullName" : "testproject.test_mymath#test_add_positive",
-  "historyId" : "0cc1fa42e1c19a0d3fd610d45c4ba65a",
+  "uid" : "e257e3fdd2bd9c95",
+  "name" : "test_add_negative",
+  "fullName" : "testproject.test_mymath#test_add_negative",
+  "historyId" : "753cdf21aa3257d3e2249d83346a13e6",
   "time" : {
-    "start" : 1625172399770,
-    "stop" : 1625172399770,
+    "start" : 1625172403554,
+    "stop" : 1625172403554,
     "duration" : 0
   },
   "status" : "passed",
@@ -21,10 +21,10 @@
     "value" : "test_mymath"
   }, {
     "name" : "host",
-    "value" : "fv-az74-105"
+    "value" : "fv-az83-332"
   }, {
     "name" : "thread",
-    "value" : "2768-MainThread"
+    "value" : "2779-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -56,27 +56,27 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "111dcca76cc0da69",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/111dcca76cc0da69",
+        "uid" : "bc6f75631d38fded",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/6//#testresult/bc6f75631d38fded",
         "status" : "passed",
         "time" : {
-          "start" : 1624560207989,
-          "stop" : 1624560207989,
+          "start" : 1624560207993,
+          "stop" : 1624560207993,
           "duration" : 0
         }
       }, {
-        "uid" : "fea0c22cbb69f8",
-        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/fea0c22cbb69f8",
+        "uid" : "a77455f29ecdddb5",
+        "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/5//#testresult/a77455f29ecdddb5",
         "status" : "passed",
         "time" : {
-          "start" : 1623946875431,
-          "stop" : 1623946875431,
+          "start" : 1623946875473,
+          "stop" : 1623946875473,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "b337a36c039c51b0.json",
+  "source" : "e257e3fdd2bd9c95.json",
   "parameterValues" : [ ]
 }
