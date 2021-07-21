@@ -9,12 +9,12 @@
       "total" : 6
     },
     "items" : [ {
-      "uid" : "b9c1e43d28899783",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/b9c1e43d28899783",
+      "uid" : "552668cfca6ab9d9",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/552668cfca6ab9d9",
       "status" : "passed",
       "time" : {
-        "start" : 1626881314057,
-        "stop" : 1626881314057,
+        "start" : 1626881318762,
+        "stop" : 1626881318762,
         "duration" : 0
       }
     }, {
@@ -74,13 +74,13 @@
       "total" : 6
     },
     "items" : [ {
-      "uid" : "ac0610198ae62c50",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/ac0610198ae62c50",
+      "uid" : "df66adef068b946d",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/df66adef068b946d",
       "status" : "passed",
       "time" : {
-        "start" : 1626881314060,
-        "stop" : 1626881314060,
-        "duration" : 0
+        "start" : 1626881318765,
+        "stop" : 1626881318766,
+        "duration" : 1
       }
     }, {
       "uid" : "b18f4988a6931642",
@@ -139,12 +139,12 @@
       "total" : 6
     },
     "items" : [ {
-      "uid" : "996c99b4be3be3c0",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/996c99b4be3be3c0",
+      "uid" : "e8643bed52c0a004",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/e8643bed52c0a004",
       "status" : "passed",
       "time" : {
-        "start" : 1626881314055,
-        "stop" : 1626881314055,
+        "start" : 1626881318753,
+        "stop" : 1626881318753,
         "duration" : 0
       }
     }, {
@@ -204,12 +204,12 @@
       "total" : 6
     },
     "items" : [ {
-      "uid" : "e72c5910fa12c2a7",
-      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/e72c5910fa12c2a7",
+      "uid" : "8eaaf489591beebb",
+      "reportUrl" : "https://KZsZs.github.io/selenium-py-peldatar/10//#testresult/8eaaf489591beebb",
       "status" : "passed",
       "time" : {
-        "start" : 1626881314059,
-        "stop" : 1626881314059,
+        "start" : 1626881318764,
+        "stop" : 1626881318764,
         "duration" : 0
       }
     }, {
